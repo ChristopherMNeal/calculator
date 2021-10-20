@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Calculator_
 
 #### By _**Christopher Neal**_ _**&**_ _**Kate Kiatsiri**_
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_Website to practice Javascript functions.  The calculator is able to add, subtract, multiply, divide._
+_Website to practice Javascript functions and jQuery forms.  The calculator is able to add, subtract, multiply, divide._
 
 ## Setup/Installation Requirements
 
@@ -27,4 +27,4 @@ _Website to practice Javascript functions.  The calculator is able to add, subtr
 
 _MIT_
 
-Copyright (c) _18 October 2021_ _Christopher Neal and Kate Kiatsiri_
+Copyright (c) _20 October 2021_ _Christopher Neal and Kate Kiatsiri_
