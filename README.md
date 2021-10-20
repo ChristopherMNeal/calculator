@@ -27,4 +27,4 @@ _Website to practice Javascript functions.  The calculator is able to add, subtr
 
 _MIT_
 
-Copyright (c) _13 October 2021_ _Christopher Neal and Isaac Overstreet_
+Copyright (c) _18 October 2021_ _Christopher Neal and Isaac Overstreet_
